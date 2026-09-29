@@ -194,7 +194,7 @@ export const features = [
     id: 'execution',
     horizon: 'later',
     title: 'Brokerage + Real Holdings',
-    userJob: 'Apply AaronBux intelligence to actual holdings and eventually execute deliberately.',
+    userJob: 'Apply intelligence to actual holdings and eventually execute deliberately.',
     minimumBehavior: 'Brokerage connection, real holdings, safe execution flow, status and transparency.',
     discoveryQuestion: 'Which intelligence behaviors become materially better once the portfolio is live?',
     exitCriterion: 'Real holdings and order state are reliable enough for the intelligence layer to operate on live context.',

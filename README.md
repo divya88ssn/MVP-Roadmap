@@ -1,4 +1,4 @@
-# AaronBux MVP Readiness Tracker
+# MVP Readiness Tracker
 
 Static, AWS Amplify-hostable product tracker for communicating MVP progress as **feature readiness + solution-discovery closure**, rather than raw engineering completion.
 
